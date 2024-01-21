@@ -1,0 +1,6 @@
+framework module Pods_WorkTimeApp2 {
+  umbrella header "Pods-WorkTimeApp2-umbrella.h"
+
+  export *
+  module * { export * }
+}
